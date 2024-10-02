@@ -1,6 +1,7 @@
 # 🐍 Snake Game
 
 Este proyecto es una implementación clásica del popular juego **Snake**. El objetivo del juego es controlar una serpiente que crece en longitud a medida que come comida, evitando chocar con las paredes o consigo misma.
+![snakegame](https://github.com/user-attachments/assets/313bf38d-c543-4766-9649-ba09bdedb54b)
 
 ## 🚀 Descripción
 
